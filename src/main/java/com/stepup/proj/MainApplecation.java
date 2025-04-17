@@ -5,4 +5,3 @@ public class MainApplecation {
         System.out.println("Hello Word!");
     }
 }
-d
