@@ -5,9 +5,13 @@ public class MainApplecation {
         System.out.println("Hello Word!");
         System.out.println("-----");
         System.out.println("110011");
+        System.out.println("111");
 
         System.out.println("222");
         System.out.println("00");
+
+
+        System.out.println("Hello Word!");
 
 
     }
