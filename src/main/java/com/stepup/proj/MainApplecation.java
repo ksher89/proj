@@ -10,5 +10,8 @@ public class MainApplecation {
         System.out.println("00");
 
 
+        System.out.println("Hello Word!");
+
+
     }
 }
